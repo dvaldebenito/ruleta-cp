@@ -1,0 +1,24 @@
+{
+  "name": "ruleta-cp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "precache-manifest.bccff2f94c8b8cb1f8c3e20318e51c66.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvaldebenito/ruleta-cp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvaldebenito/ruleta-cp/issues"
+  },
+  "homepage": "https://github.com/dvaldebenito/ruleta-cp#readme",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
